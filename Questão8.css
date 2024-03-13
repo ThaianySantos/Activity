@@ -1,0 +1,11 @@
+.Abacaxi{
+    border: 5px solid green;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px black;
+    width: 200px;
+    height: 300px;
+    padding: 10px;
+    background-color: orange;
+    margin: 5px;
+    
+}

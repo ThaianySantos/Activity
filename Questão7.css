@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://segredosdomundo.r7.com/wp-content/uploads/2021/11/por-que-o-mar-e-azul-entenda-o-que-define-a-cor-do-oceano-e1636222240422.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+form{
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    margin: 10px;
+    padding: 10px;
+    background-color: lightskyblue;
+}
+button{
+    border: 1px solid lightgray;
+}
+button:hover{
+    color: aquamarine;
+    background-color: black;
+}

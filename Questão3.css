@@ -1,0 +1,18 @@
+div{
+    width: 500px;
+    height: 300px;
+    border: 1px solid blueviolet;
+    padding: 10px;
+    margin: 20px;
+
+}
+    h2{
+        text-align: center;
+
+    }
+
+    p{
+
+        height: 300px;
+        width: 400px;
+    }
